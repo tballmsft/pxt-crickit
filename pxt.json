@@ -24,5 +24,6 @@
     "testDependencies": {
         "circuit-playground": "*"
     },
-    "public": true
+    "public": true,
+    "preferredEditor": "tsprj"
 }
